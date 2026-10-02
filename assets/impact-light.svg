@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="136" viewBox="0 0 1200 136" role="img" aria-labelledby="t d">
+<title id="t">Impact &amp; strengths</title>
+<desc id="d">Strengths: multi-cloud (Azure, AWS, GCP); applied AI and LLM systems (RAG, agents, speech, vision-language); healthcare compliance (HIPAA, HL7 FHIR R4, PHI encryption); certified and experienced (6+ years, AI-102, AI-900).</desc>
+<defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#0969DA"/><stop offset="55%" stop-color="#8250DF"/><stop offset="100%" stop-color="#0F9D8A"/></linearGradient></defs>
+<style>
+.s{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif}
+.m{font-family:ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, monospace}
+@keyframes grow{from{transform:scaleX(0)}}@keyframes shrink{from{transform:scaleX(1)}}.bar{transform-box:fill-box;transform-origin:0 50%;animation:grow 1.6s ease-out both}.shr{transform-box:fill-box;transform-origin:0 50%;transform:scaleX(.02);animation:shrink 2.2s ease-in-out .4s both}@keyframes up{from{opacity:0;transform:translateY(8px)}}.val{animation:up .8s ease-out both}@keyframes pk{from{transform:translateX(-30px)}to{transform:translateX(200px)}}.pk{animation:pk 2.4s linear infinite}@media (prefers-reduced-motion: reduce){.pk{display:none}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.smil{display:none}}
+</style>
+<rect x="23" y="20" width="278" height="96" rx="12" fill="#F6F8FA" stroke="#D0D7DE"/>
+<rect x="39" y="44" width="48" height="48" rx="12" fill="#0969DA" fill-opacity=".12"/>
+<path transform="translate(43 48)" d="M12 30h17a7 7 0 0 0 0-14 10 10 0 0 0-19-2 8 8 0 0 0 2 16z" fill="none" stroke="#0969DA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="s" x="101" y="64" font-size="15" font-weight="700" fill="#1F2328">Multi-cloud</text>
+<text class="s" x="101" y="86" font-size="12.5" fill="#59636E">Azure &#183; AWS &#183; GCP</text>
+<rect x="317" y="20" width="278" height="96" rx="12" fill="#F6F8FA" stroke="#D0D7DE"/>
+<rect x="333" y="44" width="48" height="48" rx="12" fill="#8250DF" fill-opacity=".12"/>
+<path transform="translate(337 48)" d="M8 12l12 8M8 28l12-8M20 20l12-8M20 20l12 8M8 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0-6 0M8 28m-3 0a3 3 0 1 0 6 0a3 3 0 1 0-6 0M20 20m-3.5 0a3.5 3.5 0 1 0 7 0a3.5 3.5 0 1 0-7 0M32 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0-6 0M32 28m-3 0a3 3 0 1 0 6 0a3 3 0 1 0-6 0" fill="none" stroke="#8250DF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="s" x="395" y="58" font-size="15" font-weight="700" fill="#1F2328">Applied AI &amp; LLM systems</text>
+<text class="s" x="395" y="78" font-size="12.5" fill="#59636E">RAG &#183; agents &#183; speech &#183;</text>
+<text class="s" x="395" y="94" font-size="12.5" fill="#59636E">vision-language</text>
+<rect x="611" y="20" width="278" height="96" rx="12" fill="#F6F8FA" stroke="#D0D7DE"/>
+<rect x="627" y="44" width="48" height="48" rx="12" fill="#0F9D8A" fill-opacity=".12"/>
+<path transform="translate(631 48)" d="M20 4l14 5v11c0 9-6 15-14 17C12 35 6 29 6 20V9zM20 13v14M13 20h14" fill="none" stroke="#0F9D8A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="s" x="689" y="58" font-size="15" font-weight="700" fill="#1F2328">Healthcare compliance</text>
+<text class="s" x="689" y="78" font-size="12.5" fill="#59636E">HIPAA &#183; HL7 FHIR R4 &#183;</text>
+<text class="s" x="689" y="94" font-size="12.5" fill="#59636E">PHI encryption</text>
+<rect x="905" y="20" width="278" height="96" rx="12" fill="#F6F8FA" stroke="#D0D7DE"/>
+<rect x="921" y="44" width="48" height="48" rx="12" fill="#B7791F" fill-opacity=".12"/>
+<path transform="translate(925 48)" d="M20 4a10 10 0 1 0 0.01 0zM14 22l-4 14 6-3 4 5 3-12M26 22l4 14-6-3" fill="none" stroke="#B7791F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="s" x="983" y="64" font-size="15" font-weight="700" fill="#1F2328">Certified &amp; experienced</text>
+<text class="s" x="983" y="86" font-size="12.5" fill="#59636E">6+ years &#183; AI-102 &#183; AI-900</text>
+</svg>

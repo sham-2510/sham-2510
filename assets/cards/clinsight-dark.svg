@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" role="img" aria-labelledby="t d">
+<title id="t">ClinSight &#8212; solo hackathon build</title>
+<desc id="d">ClinSight, solo hackathon build, repository sham-2510/ClinSight: hierarchical multimodal clinical intelligence for emergency decision support. Pipeline: Coordinator &#8594; Radiologist &#8594; Lab Analyst &#8594; Safety &#8594; Documenter. 5 parent agents &#8594; 7 subagents &#8594; 12 reasoning nodes (LangGraph); Qwen2.5-VL-7B + Qwen3.5-35B-A3B at FP16 on AMD MI300X; 50/50 cases on a live benchmark &#183; mean latency 23.02 s. Stack: Python, LangGraph, vLLM, FastAPI, React, ROCm.</desc>
+<defs><linearGradient id="ac" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#2DD4BF"/><stop offset="100%" stop-color="#3B9EFF"/></linearGradient><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#3B9EFF"/><stop offset="55%" stop-color="#A78BFA"/><stop offset="100%" stop-color="#2DD4BF"/></linearGradient></defs>
+<style>
+.s{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif}
+.m{font-family:ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, monospace}
+@keyframes glow{0%,100%{opacity:.45}50%{opacity:1}}.st{animation:glow 3s ease-in-out infinite}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.smil{display:none}}
+</style>
+<rect x="1" y="1" width="598" height="338" rx="16" fill="#161B22" stroke="#30363D"/>
+<rect x="18" y="1" width="564" height="4" rx="2" fill="url(#ac)"/>
+<rect x="24" y="22" width="178" height="22" rx="11" fill="#F0B429" fill-opacity=".15"/>
+<text class="m" x="113" y="37" font-size="11" font-weight="700" text-anchor="middle" fill="#F0B429">SOLO &#183; HACKATHON BUILD</text>
+<path transform="translate(417.2 25)" d="M2 1h9l3 3v11H2zM5 6h6M5 9h6M5 12h4" fill="none" stroke="#7D8590" stroke-width="1.2" stroke-linejoin="round"/>
+<text class="m" x="576" y="37" font-size="12" text-anchor="end" fill="#7D8590">sham-2510/ClinSight</text>
+<text class="s" x="24" y="94" font-size="30" font-weight="800" fill="#E6EDF3">ClinSight</text>
+<text class="s" x="24" y="120" font-size="14" fill="#7D8590">Hierarchical multimodal clinical intelligence for</text>
+<text class="s" x="24" y="139" font-size="14" fill="#7D8590">emergency decision support</text>
+<rect class="st" x="24.0" y="160" width="93.7" height="28" rx="8" fill="#0D1117" stroke="url(#ac)" stroke-width="1.5" style="animation-delay:0.0s"/>
+<text class="m" x="70.8" y="178" font-size="11" text-anchor="middle" fill="#E6EDF3">Coordinator</text>
+<path d="M120.7 174.0H144.6" stroke="#7D8590" stroke-width="1.4"/><path d="M145.625 174L138.6 170.2L138.6 177.8Z" fill="#7D8590"/>
+<rect class="st" x="148.6" y="160" width="93.7" height="28" rx="8" fill="#0D1117" stroke="url(#ac)" stroke-width="1.5" style="animation-delay:0.5s"/>
+<text class="m" x="195.5" y="178" font-size="11" text-anchor="middle" fill="#E6EDF3">Radiologist</text>
+<path d="M245.3 174.0H269.2" stroke="#7D8590" stroke-width="1.4"/><path d="M270.25 174L263.2 170.2L263.2 177.8Z" fill="#7D8590"/>
+<rect class="st" x="273.2" y="160" width="93.7" height="28" rx="8" fill="#0D1117" stroke="url(#ac)" stroke-width="1.5" style="animation-delay:1.0s"/>
+<text class="m" x="320.1" y="178" font-size="11" text-anchor="middle" fill="#E6EDF3">Lab Analyst</text>
+<path d="M369.9 174.0H393.9" stroke="#7D8590" stroke-width="1.4"/><path d="M394.875 174L387.9 170.2L387.9 177.8Z" fill="#7D8590"/>
+<rect class="st" x="397.9" y="160" width="60.2" height="28" rx="8" fill="#0D1117" stroke="url(#ac)" stroke-width="1.5" style="animation-delay:1.5s"/>
+<text class="m" x="428.0" y="178" font-size="11" text-anchor="middle" fill="#E6EDF3">Safety</text>
+<path d="M461.1 174.0H485.0" stroke="#7D8590" stroke-width="1.4"/><path d="M486 174L479.0 170.2L479.0 177.8Z" fill="#7D8590"/>
+<rect class="st" x="489.0" y="160" width="87.0" height="28" rx="8" fill="#0D1117" stroke="url(#ac)" stroke-width="1.5" style="animation-delay:2.0s"/>
+<text class="m" x="532.5" y="178" font-size="11" text-anchor="middle" fill="#E6EDF3">Documenter</text>
+<g class="smil" fill="#3B9EFF"><circle r="7" opacity=".25"/><circle r="3.5"/><animateMotion dur="4s" repeatCount="indefinite" path="M117.7 174.0H489.0"/></g>
+<text class="m" x="24" y="232" font-size="12"><tspan fill="#2DD4BF">&#9656;</tspan><tspan x="40" fill="#E6EDF3">5 parent agents &#8594; 7 subagents &#8594; 12 reasoning nodes (LangGraph)</tspan></text>
+<text class="m" x="24" y="251" font-size="12"><tspan fill="#2DD4BF">&#9656;</tspan><tspan x="40" fill="#E6EDF3">Qwen2.5-VL-7B + Qwen3.5-35B-A3B at FP16 on AMD MI300X</tspan></text>
+<text class="m" x="24" y="270" font-size="12"><tspan fill="#2DD4BF">&#9656;</tspan><tspan x="40" fill="#E6EDF3">50/50 cases on a live benchmark &#183; mean latency 23.02 s</tspan></text>
+<rect x="24.0" y="306" width="60.2" height="22" rx="11.0" fill="#2DD4BF" fill-opacity=".12" stroke="#2DD4BF" stroke-opacity=".45"/><text class="m" x="54.1" y="321.0" font-size="11" text-anchor="middle" fill="#E6EDF3">Python</text><rect x="92.2" y="306" width="80.3" height="22" rx="11.0" fill="#2DD4BF" fill-opacity=".12" stroke="#2DD4BF" stroke-opacity=".45"/><text class="m" x="132.4" y="321.0" font-size="11" text-anchor="middle" fill="#E6EDF3">LangGraph</text><rect x="180.5" y="306" width="46.8" height="22" rx="11.0" fill="#2DD4BF" fill-opacity=".12" stroke="#2DD4BF" stroke-opacity=".45"/><text class="m" x="203.9" y="321.0" font-size="11" text-anchor="middle" fill="#E6EDF3">vLLM</text><rect x="235.3" y="306" width="66.9" height="22" rx="11.0" fill="#2DD4BF" fill-opacity=".12" stroke="#2DD4BF" stroke-opacity=".45"/><text class="m" x="268.8" y="321.0" font-size="11" text-anchor="middle" fill="#E6EDF3">FastAPI</text><rect x="310.2" y="306" width="53.5" height="22" rx="11.0" fill="#2DD4BF" fill-opacity=".12" stroke="#2DD4BF" stroke-opacity=".45"/><text class="m" x="337.0" y="321.0" font-size="11" text-anchor="middle" fill="#E6EDF3">React</text><rect x="371.7" y="306" width="46.8" height="22" rx="11.0" fill="#2DD4BF" fill-opacity=".12" stroke="#2DD4BF" stroke-opacity=".45"/><text class="m" x="395.1" y="321.0" font-size="11" text-anchor="middle" fill="#E6EDF3">ROCm</text>
+</svg>

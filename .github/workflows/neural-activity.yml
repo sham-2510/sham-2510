@@ -1,0 +1,44 @@
+name: Neural activity
+
+# Renders assets/generated/{neural-activity,telemetry}-{dark,light}.svg from GitHub data.
+# Without a PAT: public calendar + REST (GITHUB_TOKEN only lifts rate limits); private counts are carried
+# forward from the committed owner snapshot in assets/generated/activity.json. A failed fetch re-renders it.
+# Optional PROFILE_STATS_TOKEN secret (classic PAT: repo + read:user) refreshes private counts every day.
+on:
+  schedule:
+    - cron: "17 3 * * *"        # daily 03:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/scripts/**", ".github/workflows/neural-activity.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neural-activity
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Test renderer
+        run: python -m unittest discover -s .github/scripts -v
+      - name: Render activity SVGs
+        env:
+          GH_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/render_activity.py --user "${{ github.repository_owner }}" --out assets/generated --mode auto
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/generated
+          git diff --cached --quiet || git commit -m "chore: refresh neural activity [skip ci]"
+          git push

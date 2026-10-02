@@ -1,0 +1,1859 @@
+{
+ "user": "sample-user",
+ "updated": "2025-12-31",
+ "private_known": true,
+ "calendar_private": 0,
+ "languages": [
+  {
+   "name": "TypeScript",
+   "color": "#3178c6",
+   "pct": 55.0
+  },
+  {
+   "name": "Python",
+   "color": "#3572A5",
+   "pct": 25.0
+  },
+  {
+   "name": "C#",
+   "color": "#178600",
+   "pct": 10.0
+  },
+  {
+   "name": "Other",
+   "color": "#8B949E",
+   "pct": 10.0
+  }
+ ],
+ "repos": {
+  "public": 3,
+  "private": 4
+ },
+ "days": [
+  {
+   "date": "2025-01-01",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-02",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-03",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-04",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-05",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-06",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-07",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-08",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-09",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-10",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-11",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-12",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-13",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-14",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-15",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-16",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-17",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-18",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-19",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-20",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-21",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-22",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-23",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-01-24",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-01-25",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-26",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-27",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-01-28",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-29",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-01-30",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-01-31",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-02-01",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-02-02",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-02-03",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-02-04",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-02-05",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-02-06",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-02-07",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-02-08",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-02-09",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-02-10",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-02-11",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-02-12",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-02-13",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-02-14",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-02-15",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-02-16",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-02-17",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-02-18",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-02-19",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-02-20",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-02-21",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-02-22",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-02-23",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-02-24",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-02-25",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-02-26",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-02-27",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-02-28",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-03-01",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-03-02",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-03-03",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-03-04",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-03-05",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-03-06",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-03-07",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-03-08",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-03-09",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-03-10",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-03-11",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-03-12",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-03-13",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-03-14",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-03-15",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-03-16",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-03-17",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-03-18",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-03-19",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-03-20",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-03-21",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-03-22",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-03-23",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-03-24",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-03-25",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-03-26",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-03-27",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-03-28",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-03-29",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-03-30",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-03-31",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-04-01",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-04-02",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-04-03",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-04-04",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-04-05",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-04-06",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-04-07",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-04-08",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-04-09",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-04-10",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-04-11",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-04-12",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-04-13",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-04-14",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-04-15",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-04-16",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-04-17",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-04-18",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-04-19",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-04-20",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-04-21",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-04-22",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-04-23",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-04-24",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-04-25",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-04-26",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-04-27",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-04-28",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-04-29",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-04-30",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-05-01",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-05-02",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-05-03",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-05-04",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-05-05",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-05-06",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-05-07",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-05-08",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-05-09",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-05-10",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-05-11",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-05-12",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-05-13",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-05-14",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-05-15",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-05-16",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-05-17",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-05-18",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-05-19",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-05-20",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-05-21",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-05-22",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-05-23",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-05-24",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-05-25",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-05-26",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-05-27",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-05-28",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-05-29",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-05-30",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-05-31",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-06-01",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-06-02",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-06-03",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-06-04",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-06-05",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-06-06",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-06-07",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-06-08",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-06-09",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-06-10",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-06-11",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-06-12",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-06-13",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-06-14",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-06-15",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-06-16",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-06-17",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-06-18",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-06-19",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-06-20",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-06-21",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-06-22",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-06-23",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-06-24",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-06-25",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-06-26",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-06-27",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-06-28",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-06-29",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-06-30",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-07-01",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-07-02",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-07-03",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-07-04",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-07-05",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-07-06",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-07-07",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-07-08",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-07-09",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-07-10",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-07-11",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-07-12",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-07-13",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-07-14",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-07-15",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-07-16",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-07-17",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-07-18",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-07-19",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-07-20",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-07-21",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-07-22",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-07-23",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-07-24",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-07-25",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-07-26",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-07-27",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-07-28",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-07-29",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-07-30",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-07-31",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-08-01",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-08-02",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-08-03",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-08-04",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-08-05",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-08-06",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-08-07",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-08-08",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-08-09",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-08-10",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-08-11",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-08-12",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-08-13",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-08-14",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-08-15",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-08-16",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-08-17",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-08-18",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-08-19",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-08-20",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-08-21",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-08-22",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-08-23",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-08-24",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-08-25",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-08-26",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-08-27",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-08-28",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-08-29",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-08-30",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-08-31",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-09-01",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-09-02",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-09-03",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-09-04",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-09-05",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-09-06",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-09-07",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-09-08",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-09-09",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-09-10",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-09-11",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-09-12",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-09-13",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-09-14",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-09-15",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-09-16",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-09-17",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-09-18",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-09-19",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-09-20",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-09-21",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-09-22",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-09-23",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-09-24",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-09-25",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-09-26",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-09-27",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-09-28",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-09-29",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-09-30",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-10-01",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-10-02",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-10-03",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-10-04",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-10-05",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-10-06",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-10-07",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-10-08",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-10-09",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-10-10",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-10-11",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-10-12",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-10-13",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-10-14",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-10-15",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-10-16",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-10-17",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-10-18",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-10-19",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-10-20",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-10-21",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-10-22",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-10-23",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-10-24",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-10-25",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-10-26",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-10-27",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-10-28",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-10-29",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-10-30",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-10-31",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-11-01",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-11-02",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-11-03",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-11-04",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-11-05",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-11-06",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-11-07",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-11-08",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-11-09",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-11-10",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-11-11",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-11-12",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-11-13",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-11-14",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-11-15",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-11-16",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-11-17",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-11-18",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-11-19",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-11-20",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-11-21",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-11-22",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-11-23",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-11-24",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-11-25",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-11-26",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-11-27",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-11-28",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-11-29",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-11-30",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-12-01",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-12-02",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-12-03",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-12-04",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-12-05",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-12-06",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-12-07",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-12-08",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-12-09",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-12-10",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-12-11",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-12-12",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-12-13",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-12-14",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-12-15",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-12-16",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-12-17",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-12-18",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-12-19",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-12-20",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-12-21",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-12-22",
+   "public": 3,
+   "private": 0
+  },
+  {
+   "date": "2025-12-23",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-12-24",
+   "public": 0,
+   "private": 2
+  },
+  {
+   "date": "2025-12-25",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-12-26",
+   "public": 0,
+   "private": 1
+  },
+  {
+   "date": "2025-12-27",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-12-28",
+   "public": 5,
+   "private": 0
+  },
+  {
+   "date": "2025-12-29",
+   "public": 0,
+   "private": 0
+  },
+  {
+   "date": "2025-12-30",
+   "public": 4,
+   "private": 0
+  },
+  {
+   "date": "2025-12-31",
+   "public": 3,
+   "private": 0
+  }
+ ]
+}

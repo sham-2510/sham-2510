@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="t d">
+<title id="t">Inside the AI clinical scribe</title>
+<desc id="d">Architecture of the AI clinical scribe, simplified. 1: the Blazor WebAssembly app inside the fertility EMR (WebView2) calls Azure API Management over HTTPS. 2: API Management forwards to the speech token service on ASP.NET Core 8 (Azure App Service). 3: the service returns a short-lived token, so no keys reach the browser. 4: the app streams audio to Azure AI Speech for live transcription. 5: the transcript goes to the note orchestrator. 6: the orchestrator and Azure OpenAI draft a structured note. 7: the draft is encrypted with X.509 certificates (PHI encryption), reviewed by the clinician and saved to the chart. Azure Key Vault holds the secrets and certificates for the token service and PHI encryption.</desc>
+<defs></defs>
+<style>
+.s{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif}
+.m{font-family:ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, monospace}
+@keyframes flow{to{stroke-dashoffset:-24}}.fl{stroke-dasharray:6 6;animation:flow 1.6s linear infinite}.dot{stroke-dasharray:2 5;animation:flow 3s linear infinite}.lane{font-size:12px;letter-spacing:.08em;font-weight:700}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.smil{display:none}}
+</style>
+<rect x="20" y="20" width="280" height="384" rx="12" fill="#F6F8FA" fill-opacity=".5" stroke="#D0D7DE" stroke-dasharray="5 5"/>
+<text class="s lane" x="32" y="40" fill="#59636E">CLINICIAN WORKSTATION</text>
+<rect x="320" y="20" width="200" height="384" rx="12" fill="#F6F8FA" fill-opacity=".5" stroke="#D0D7DE" stroke-dasharray="5 5"/>
+<text class="s lane" x="332" y="40" fill="#59636E">AZURE EDGE</text>
+<rect x="540" y="20" width="320" height="384" rx="12" fill="#F6F8FA" fill-opacity=".5" stroke="#D0D7DE" stroke-dasharray="5 5"/>
+<text class="s lane" x="552" y="40" fill="#59636E">ASP.NET CORE 8 &#183; AZURE APP SERVICE</text>
+<rect x="880" y="20" width="300" height="384" rx="12" fill="#F6F8FA" fill-opacity=".5" stroke="#D0D7DE" stroke-dasharray="5 5"/>
+<text class="s lane" x="892" y="40" fill="#59636E">AZURE AI</text>
+<rect x="320" y="416" width="860" height="88" rx="12" fill="#B7791F" fill-opacity=".05" stroke="#D0D7DE" stroke-dasharray="5 5"/>
+<text class="s lane" x="332" y="436" fill="#59636E">SECURITY</text>
+<rect x="65" y="84" width="190" height="64" rx="10" fill="#FFFFFF" stroke="#D0D7DE"/><rect x="65" y="94" width="4" height="44" rx="2" fill="#0969DA"/><text class="s" x="81" y="112" font-size="13.5" font-weight="600" fill="#1F2328">Fertility EMR</text><text class="s" x="81" y="131" font-size="11.5" fill="#59636E">WebView2 host</text>
+<rect x="65" y="196" width="190" height="64" rx="10" fill="#FFFFFF" stroke="#D0D7DE"/><rect x="65" y="206" width="4" height="44" rx="2" fill="#0969DA"/><text class="s" x="81" y="224" font-size="13.5" font-weight="600" fill="#1F2328">Blazor WebAssembly app</text><text class="s" x="81" y="243" font-size="11.5" fill="#59636E">runs inside the EMR</text>
+<rect x="65" y="316" width="190" height="64" rx="10" fill="#FFFFFF" stroke="#D0D7DE"/><rect x="65" y="326" width="4" height="44" rx="2" fill="#0F9D8A"/><text class="s" x="81" y="344" font-size="13.5" font-weight="600" fill="#1F2328">Clinician review</text><text class="s" x="81" y="363" font-size="11.5" fill="#59636E">approve &#8594; save to chart</text>
+<rect x="325" y="196" width="190" height="64" rx="10" fill="#FFFFFF" stroke="#D0D7DE"/><rect x="325" y="206" width="4" height="44" rx="2" fill="#8250DF"/><text class="s" x="341" y="224" font-size="13.5" font-weight="600" fill="#1F2328">Azure API Management</text><text class="s" x="341" y="243" font-size="11.5" fill="#59636E">HTTPS gateway</text>
+<rect x="605" y="96" width="190" height="64" rx="10" fill="#FFFFFF" stroke="#D0D7DE"/><rect x="605" y="106" width="4" height="44" rx="2" fill="#8250DF"/><text class="s" x="621" y="124" font-size="13.5" font-weight="600" fill="#1F2328">Speech token service</text><text class="s" x="621" y="143" font-size="11.5" fill="#59636E">short-lived tokens</text>
+<rect x="605" y="206" width="190" height="64" rx="10" fill="#FFFFFF" stroke="#D0D7DE"/><rect x="605" y="216" width="4" height="44" rx="2" fill="#0969DA"/><text class="s" x="621" y="234" font-size="13.5" font-weight="600" fill="#1F2328">Note orchestrator</text><text class="s" x="621" y="253" font-size="11.5" fill="#59636E">ASP.NET Core 8</text>
+<rect x="605" y="316" width="190" height="64" rx="10" fill="#FFFFFF" stroke="#D0D7DE"/><rect x="605" y="326" width="4" height="44" rx="2" fill="#1A7F37"/><text class="s" x="621" y="344" font-size="13.5" font-weight="600" fill="#1F2328">PHI encryption</text><text class="s" x="621" y="363" font-size="11.5" fill="#59636E">X.509 certificates</text>
+<rect x="935" y="96" width="190" height="64" rx="10" fill="#FFFFFF" stroke="#D0D7DE"/><rect x="935" y="106" width="4" height="44" rx="2" fill="#0F9D8A"/><text class="s" x="951" y="124" font-size="13.5" font-weight="600" fill="#1F2328">Azure AI Speech</text><text class="s" x="951" y="143" font-size="11.5" fill="#59636E">live transcription</text>
+<rect x="935" y="206" width="190" height="64" rx="10" fill="#FFFFFF" stroke="#D0D7DE"/><rect x="935" y="216" width="4" height="44" rx="2" fill="#8250DF"/><text class="s" x="951" y="234" font-size="13.5" font-weight="600" fill="#1F2328">Azure OpenAI</text><text class="s" x="951" y="253" font-size="11.5" fill="#59636E">structured note draft</text>
+<rect x="605" y="428" width="190" height="64" rx="10" fill="#FFFFFF" stroke="#D0D7DE"/><rect x="605" y="438" width="4" height="44" rx="2" fill="#B7791F"/><text class="s" x="621" y="456" font-size="13.5" font-weight="600" fill="#1F2328">Azure Key Vault</text><text class="s" x="621" y="475" font-size="11.5" fill="#59636E">secrets &amp; certificates</text>
+<path class="fl" d="M255 236L325 236" fill="none" stroke="#0969DA" stroke-width="2"/>
+<path d="M325 236L318.0 232.2L318.0 239.8Z" fill="#0969DA"/>
+<text class="m" x="290" y="254" font-size="11" text-anchor="middle" fill="#59636E">HTTPS</text>
+<path class="fl" d="M420 196L420 144Q420 136 428 136L605 136" fill="none" stroke="#0969DA" stroke-width="2"/>
+<path d="M605 136L598.0 132.2L598.0 139.8Z" fill="#0969DA"/>
+<path class="fl" d="M700 96L700 70Q700 62 692 62L288 62Q280 62 280 70L280 204Q280 212 272 212L255 212" fill="none" stroke="#8250DF" stroke-width="2"/>
+<path d="M255 212L262.0 215.8L262.0 208.2Z" fill="#8250DF"/>
+<text class="m" x="300" y="80" font-size="11" text-anchor="start" fill="#59636E">short-lived token &#183; no keys in browser</text>
+<path class="fl" d="M40 228L40 58Q40 50 48 50L1152 50Q1160 50 1160 58L1160 120Q1160 128 1152 128L1125 128" fill="none" stroke="#0F9D8A" stroke-width="2"/>
+<path d="M1125 128L1132.0 131.8L1132.0 124.2Z" fill="#0F9D8A"/>
+<text class="m" x="1150" y="92" font-size="11" text-anchor="end" fill="#59636E">audio stream</text>
+<path class="fl" d="M935 140L858 140Q850 140 850 148L850 214Q850 222 842 222L795 222" fill="none" stroke="#0F9D8A" stroke-width="2"/>
+<path d="M795 222L802.0 225.8L802.0 218.2Z" fill="#0F9D8A"/>
+<text class="m" x="862" y="130" font-size="11" text-anchor="start" fill="#59636E">transcript</text>
+<path class="fl" d="M795 254L935 254" fill="none" stroke="#8250DF" stroke-width="2"/>
+<path d="M935 254L928.0 250.2L928.0 257.9Z" fill="#8250DF"/>
+<path d="M795 254L802.0 257.9L802.0 250.2Z" fill="#8250DF"/>
+<text class="m" x="865" y="280" font-size="11" text-anchor="middle" fill="#59636E">draft note</text>
+<path class="fl" d="M1030 270L1030 340Q1030 348 1022 348L795 348" fill="none" stroke="#8250DF" stroke-width="2"/>
+<path d="M795 348L802.0 351.9L802.0 344.1Z" fill="#8250DF"/>
+<path class="fl" d="M605 348L255 348" fill="none" stroke="#1A7F37" stroke-width="2"/>
+<path d="M255 348L262.0 351.9L262.0 344.1Z" fill="#1A7F37"/>
+<text class="m" x="430" y="340" font-size="11" text-anchor="middle" fill="#59636E">encrypted &#183; reviewed &#183; saved</text>
+<path class="dot" d="M700 428L700 380" fill="none" stroke="#B7791F" stroke-width="2"/>
+<path d="M700 380L696.1 387.0L703.9 387.0Z" fill="#B7791F"/>
+<path class="dot" d="M605 460L583 460Q575 460 575 452L575 120Q575 112 583 112L605 112" fill="none" stroke="#B7791F" stroke-width="2"/>
+<path d="M605 112L598.0 108.2L598.0 115.8Z" fill="#B7791F"/>
+<text class="m" x="812" y="466" font-size="11" text-anchor="start" fill="#59636E">secrets &amp; certificates</text>
+<circle cx="290" cy="222" r="10" fill="#FFFFFF" stroke="#0969DA" stroke-width="2"/><text class="m" x="290" y="226" font-size="11" font-weight="700" text-anchor="middle" fill="#1F2328">1</text>
+<circle cx="420" cy="168" r="10" fill="#FFFFFF" stroke="#0969DA" stroke-width="2"/><text class="m" x="420" y="172" font-size="11" font-weight="700" text-anchor="middle" fill="#1F2328">2</text>
+<circle cx="490" cy="62" r="10" fill="#FFFFFF" stroke="#8250DF" stroke-width="2"/><text class="m" x="490" y="66" font-size="11" font-weight="700" text-anchor="middle" fill="#1F2328">3</text>
+<circle cx="1160" cy="74" r="10" fill="#FFFFFF" stroke="#0F9D8A" stroke-width="2"/><text class="m" x="1160" y="78" font-size="11" font-weight="700" text-anchor="middle" fill="#1F2328">4</text>
+<circle cx="850" cy="180" r="10" fill="#FFFFFF" stroke="#0F9D8A" stroke-width="2"/><text class="m" x="850" y="184" font-size="11" font-weight="700" text-anchor="middle" fill="#1F2328">5</text>
+<circle cx="865" cy="254" r="10" fill="#FFFFFF" stroke="#8250DF" stroke-width="2"/><text class="m" x="865" y="258" font-size="11" font-weight="700" text-anchor="middle" fill="#1F2328">6</text>
+<circle cx="1030" cy="304" r="10" fill="#FFFFFF" stroke="#8250DF" stroke-width="2"/><text class="m" x="1030" y="308" font-size="11" font-weight="700" text-anchor="middle" fill="#1F2328">7</text>
+<g class="smil"><g fill="#0969DA"><circle r="9" opacity=".22"/><circle r="4"/><animateMotion dur="9s" begin="0s" repeatCount="indefinite" path="M255 236L325 236 M40 228L40 58Q40 50 48 50L1152 50Q1160 50 1160 58L1160 120Q1160 128 1152 128L1125 128 M935 140L858 140Q850 140 850 148L850 214Q850 222 842 222L795 222 M795 254L935 254 M1030 270L1030 340Q1030 348 1022 348L795 348 M605 348L255 348"/></g><g fill="#8250DF"><circle r="9" opacity=".22"/><circle r="4"/><animateMotion dur="9s" begin="3s" repeatCount="indefinite" path="M255 236L325 236 M40 228L40 58Q40 50 48 50L1152 50Q1160 50 1160 58L1160 120Q1160 128 1152 128L1125 128 M935 140L858 140Q850 140 850 148L850 214Q850 222 842 222L795 222 M795 254L935 254 M1030 270L1030 340Q1030 348 1022 348L795 348 M605 348L255 348"/></g><g fill="#0F9D8A"><circle r="9" opacity=".22"/><circle r="4"/><animateMotion dur="9s" begin="6s" repeatCount="indefinite" path="M255 236L325 236 M40 228L40 58Q40 50 48 50L1152 50Q1160 50 1160 58L1160 120Q1160 128 1152 128L1125 128 M935 140L858 140Q850 140 850 148L850 214Q850 222 842 222L795 222 M795 254L935 254 M1030 270L1030 340Q1030 348 1022 348L795 348 M605 348L255 348"/></g></g>
+</svg>

@@ -1,0 +1,7 @@
+# Local-only build helpers and backups (not part of the published profile)
+preview/
+tools/
+assets/_old/
+.agents/
+__pycache__/
+*.pyc
