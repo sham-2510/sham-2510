@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Shamuddin N. Senior AI Engineer | Consultant | Applied AI. LLM and agentic systems, healthcare AI, Azure, AWS and GCP. Microsoft Certified AI-102. Open to applied AI, AI research and applied science. Artwork: a rotating point-cloud globe of an embedding space with three colour-coded clusters for the three focus areas.">
+  <img src="assets/hero-light.svg" width="100%" alt="Sham. Senior AI Engineer | Consultant | Applied AI. LLM and agentic systems, healthcare AI, Azure, AWS and GCP. Microsoft Certified AI-102. Open to applied AI, AI research and applied science. Artwork: a rotating point-cloud globe of an embedding space with three colour-coded clusters for the three focus areas.">
 </picture>
 
 <picture>
@@ -14,7 +14,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/shamuddin-n-b90018160/"><img alt="LinkedIn: Shamuddin N" src="https://img.shields.io/badge/LinkedIn-Shamuddin%20N-0A66C2?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/shamuddin-n-b90018160/"><img alt="LinkedIn: Sham" src="https://img.shields.io/badge/LinkedIn-Sham-0A66C2?style=for-the-badge"></a>
 <a href="mailto:shamuddin1011@gmail.com"><img alt="Email: shamuddin1011@gmail.com" src="https://img.shields.io/badge/Email-shamuddin1011%40gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
 <a href="#open-to"><img alt="Open to: Applied AI, AI Research, Applied Science" src="https://img.shields.io/badge/Open%20to-Applied%20AI%20%C2%B7%20AI%20Research%20%C2%B7%20Applied%20Science-2EA44F?style=for-the-badge"></a>
 
@@ -25,7 +25,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/whoami-light.svg">
-  <img src="assets/whoami-light.svg" width="100%" alt="Model card for Shamuddin N in an editor window: Senior AI Engineer and Consultant with 6+ years in production AI, cloud and healthcare SaaS. Core: C#, .NET, ASP.NET Core, Python, TypeScript. AI: Azure OpenAI, Azure AI Speech, LangGraph, vLLM, RAG, AI agents. Cloud: Azure, AWS, GCP. Domains: healthcare SaaS, HIPAA, HL7 FHIR R4, payments, finance. Certifications: AI-102 (Dec 2025), AI-900 (Aug 2025). Education: MCA 2024, BCA 2020. Intended use: applied AI, AI research, applied science with AI. Languages: English (C1, fluent). Status: online.">
+  <img src="assets/whoami-light.svg" width="100%" alt="Model card for Sham in an editor window: Senior AI Engineer and Consultant with 6+ years in production AI, cloud and healthcare SaaS. Core: C#, .NET, ASP.NET Core, Python, TypeScript. AI: Azure OpenAI, Azure AI Speech, LangGraph, vLLM, RAG, AI agents. Cloud: Azure, AWS, GCP. Domains: healthcare SaaS, HIPAA, HL7 FHIR R4, payments, finance. Certifications: AI-102 (Dec 2025), AI-900 (Aug 2025). Education: MCA 2024, BCA 2020. Intended use: applied AI, AI research, applied science with AI. Languages: English (C1, fluent). Status: online.">
 </picture>
 
 Senior AI Engineer & Consultant with **6+ years** building production AI and cloud platforms, mostly in **healthcare SaaS** (HIPAA, HL7 FHIR). I design secure .NET and Python services on **Azure, AWS and GCP** and ship LLM, speech and agentic features on top — one ambient clinical scribe cut manual documentation time by **80%**.
