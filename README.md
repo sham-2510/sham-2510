@@ -3,13 +3,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Sham. AI/ML Architect | Consultant | Applied AI. LLM and agentic systems, healthcare AI, Azure, AWS and GCP. Microsoft Certified AI-102. Open to applied AI, AI research and applied science. Artwork: a rotating point-cloud globe of an embedding space with three colour-coded clusters for the three focus areas.">
+  <img src="assets/hero-light.svg" width="100%" alt="Sham. AI Solutions Architect | Consultant | Applied AI. LLM and agentic systems, healthcare AI, Azure, AWS and GCP. Microsoft Certified AI-102. Open to applied AI, AI research and applied science. Artwork: a rotating point-cloud globe of an embedding space with three colour-coded clusters for the three focus areas.">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/typing-light.svg">
-  <img src="assets/typing-light.svg" width="760" alt="Inference ticker: AI/ML Architect, Consultant, Applied AI. LLM and agentic systems, RAG, LangGraph, vLLM. Healthcare AI, HIPAA, HL7 FHIR R4, ambient scribe. Azure, AWS, GCP, Microsoft Certified AI-102.">
+  <img src="assets/typing-light.svg" width="760" alt="Inference ticker: AI Solutions Architect, Consultant, Applied AI. LLM and agentic systems, RAG, LangGraph, vLLM. Healthcare AI, HIPAA, HL7 FHIR R4, ambient scribe. Azure, AWS, GCP, Microsoft Certified AI-102.">
 </picture>
 
 <br>
@@ -25,10 +25,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/whoami-light.svg">
-  <img src="assets/whoami-light.svg" width="100%" alt="Model card for Sham in an editor window: AI/ML Architect and Consultant with 6+ years in production AI, cloud and healthcare SaaS. Core: C#, .NET, ASP.NET Core, Python, TypeScript. AI: Azure OpenAI, Azure AI Speech, LangGraph, vLLM, RAG, AI agents. Cloud: Azure, AWS, GCP. Domains: healthcare SaaS, HIPAA, HL7 FHIR R4, payments, finance. Certifications: AI-102 (Dec 2025), AI-900 (Aug 2025). Education: MCA 2024, BCA 2020. Intended use: applied AI, AI research, applied science with AI. Languages: English (C1, fluent). Status: online.">
+  <img src="assets/whoami-light.svg" width="100%" alt="Model card for Sham in an editor window: AI Solutions Architect and Consultant with 6+ years in production AI, cloud and healthcare SaaS. Core: C#, .NET, ASP.NET Core, Python, TypeScript. AI: Azure OpenAI, Azure AI Speech, LangGraph, vLLM, RAG, AI agents. Cloud: Azure, AWS, GCP. Domains: healthcare SaaS, HIPAA, HL7 FHIR R4, payments, finance. Certifications: AI-102 (Dec 2025), AI-900 (Aug 2025). Education: MCA 2024, BCA 2020. Intended use: applied AI, AI research, applied science with AI. Languages: English (C1, fluent). Status: online.">
 </picture>
 
-AI/ML Architect & Consultant with **6+ years** building production AI and cloud platforms, mostly in **healthcare SaaS** (HIPAA, HL7 FHIR). I design secure .NET and Python services on **Azure, AWS and GCP** and ship LLM, speech and agentic features on top — one ambient clinical scribe cut manual documentation time by **80%**.
+AI Solutions Architect & Consultant with **6+ years** building production AI and cloud platforms, mostly in **healthcare SaaS** (HIPAA, HL7 FHIR). I design secure .NET and Python services on **Azure, AWS and GCP** and ship LLM, speech and agentic features on top — one ambient clinical scribe cut manual documentation time by **80%**.
 
 I guide teams of 2–4 engineers and turn rough ideas into working proofs of concept fast.
 
@@ -37,7 +37,7 @@ I guide teams of 2–4 engineers and turn rough ideas into working proofs of con
 
 ```yaml
 model: shamuddin-n
-role: AI/ML Architect & Consultant
+role: AI Solutions Architect & Consultant
 experience: 6+ years            # production AI, cloud, healthcare SaaS
 architecture:
   core:   [C#, .NET, ASP.NET Core, Python, TypeScript]

@@ -85,7 +85,7 @@ On https://github.com/sham-2510 click **Customize your pins** and pick **ClinSig
 At https://github.com/settings/profile:
 
 - **Name:** `Sham`
-- **Bio:** `AI/ML Architect | Consultant | Applied AI`
+- **Bio:** `AI Solutions Architect | Consultant | Applied AI`
 - **Public email:** `shamuddin1011@gmail.com`
 - **Social accounts:** `https://www.linkedin.com/in/shamuddin-n-b90018160/`
 - **Company** and **Location:** leave empty, as you asked.
