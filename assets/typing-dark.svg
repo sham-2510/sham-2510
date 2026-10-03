@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" role="img" aria-labelledby="t d">
 <title id="t">Inference ticker: who is sham?</title>
-<desc id="d">Inference ticker. &gt;&gt;&gt; model.generate("who is sham?") &#8594; AI Solutions Architect | Consultant | Applied AI; LLM &amp; agentic systems &#183; RAG &#183; LangGraph &#183; vLLM; Healthcare AI &#183; HIPAA &#183; HL7 FHIR R4 &#183; ambient scribe; Azure &#183; AWS &#183; GCP &#183; Microsoft Certified AI-102.</desc>
+<desc id="d">Inference ticker. &gt;&gt;&gt; model.generate("who is sham?") &#8594; AI/ML Architect | Applied AI | Consultant; LLM &amp; agentic systems &#183; RAG &#183; LangGraph &#183; vLLM; Healthcare AI &#183; HIPAA &#183; HL7 FHIR R4 &#183; ambient scribe; Azure &#183; AWS &#183; GCP &#183; Microsoft Certified AI-102.</desc>
 <defs><clipPath id="cl"><rect x="372" y="10" width="524" height="44"/></clipPath></defs>
 <style>
 .s{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif}
@@ -9,7 +9,7 @@
 @keyframes show{0%,24.5%{opacity:1}25%,100%{opacity:0}}
 .cov{transform:translateX(540px)}
 @keyframes blink{50%{opacity:0}}.cur{animation:blink 1s step-end infinite}
-@keyframes ty0{0%{transform:translateX(0);animation-timing-function:steps(48,end)}14%{transform:translateX(460.8px)}14.1%,100%{transform:translateX(540px)}}.c0{animation:ty0 16s infinite 0s}
+@keyframes ty0{0%{transform:translateX(0);animation-timing-function:steps(41,end)}14%{transform:translateX(393.6px)}14.1%,100%{transform:translateX(540px)}}.c0{animation:ty0 16s infinite 0s}
 @keyframes ty1{0%{transform:translateX(0);animation-timing-function:steps(46,end)}14%{transform:translateX(441.6px)}14.1%,100%{transform:translateX(540px)}}.c1{animation:ty1 16s infinite 4s}
 @keyframes ty2{0%{transform:translateX(0);animation-timing-function:steps(52,end)}14%{transform:translateX(499.2px)}14.1%,100%{transform:translateX(540px)}}.c2{animation:ty2 16s infinite 8s}
 @keyframes ty3{0%{transform:translateX(0);animation-timing-function:steps(46,end)}14%{transform:translateX(441.6px)}14.1%,100%{transform:translateX(540px)}}.c3{animation:ty3 16s infinite 12s}
@@ -18,7 +18,7 @@
 <rect x="1" y="1" width="898" height="62" rx="12" fill="#161B22" stroke="#30363D"/>
 <text class="m" x="22" y="38" font-size="16"><tspan fill="#2DD4BF">&gt;&gt;&gt; </tspan><tspan fill="#3B9EFF">model.generate(</tspan><tspan fill="#F0B429">"who is sham?"</tspan><tspan fill="#3B9EFF">)</tspan></text>
 <text class="m" x="346" y="38" font-size="16" fill="#7D8590">&#8594;</text>
-<g class="ln l0" style="animation-delay:0s"><text class="m" x="372" y="38" font-size="16" fill="#E6EDF3">AI Solutions Architect | Consultant | Applied AI</text><g clip-path="url(#cl)"><g class="cov c0"><rect x="372" y="12" width="540" height="40" fill="#161B22"/><rect class="cur" x="373" y="20" width="9" height="24" fill="#2DD4BF"/></g></g></g>
+<g class="ln l0" style="animation-delay:0s"><text class="m" x="372" y="38" font-size="16" fill="#E6EDF3">AI/ML Architect | Applied AI | Consultant</text><g clip-path="url(#cl)"><g class="cov c0"><rect x="372" y="12" width="540" height="40" fill="#161B22"/><rect class="cur" x="373" y="20" width="9" height="24" fill="#2DD4BF"/></g></g></g>
 <g class="ln l1" style="animation-delay:4s"><text class="m" x="372" y="38" font-size="16" fill="#E6EDF3">LLM &amp; agentic systems &#183; RAG &#183; LangGraph &#183; vLLM</text><g clip-path="url(#cl)"><g class="cov c1"><rect x="372" y="12" width="540" height="40" fill="#161B22"/><rect class="cur" x="373" y="20" width="9" height="24" fill="#2DD4BF"/></g></g></g>
 <g class="ln l2" style="animation-delay:8s"><text class="m" x="372" y="38" font-size="16" fill="#E6EDF3">Healthcare AI &#183; HIPAA &#183; HL7 FHIR R4 &#183; ambient scribe</text><g clip-path="url(#cl)"><g class="cov c2"><rect x="372" y="12" width="540" height="40" fill="#161B22"/><rect class="cur" x="373" y="20" width="9" height="24" fill="#2DD4BF"/></g></g></g>
 <g class="ln l3" style="animation-delay:12s"><text class="m" x="372" y="38" font-size="16" fill="#E6EDF3">Azure &#183; AWS &#183; GCP &#183; Microsoft Certified AI-102</text><g clip-path="url(#cl)"><g class="cov c3"><rect x="372" y="12" width="540" height="40" fill="#161B22"/><rect class="cur" x="373" y="20" width="9" height="24" fill="#2DD4BF"/></g></g></g>
