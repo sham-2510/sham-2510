@@ -1,15 +1,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=2610031341">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg?v=2610031341">
-  <img src="assets/hero-light.svg?v=2610031341" width="100%" alt="Sham. AI/ML Architect | Applied AI | Consultant. LLM and agentic systems, healthcare AI, Azure, AWS and GCP. Microsoft Certified AI-102. Open to applied AI, AI research and applied science. Artwork: a rotating point-cloud globe of an embedding space with three colour-coded clusters for the three focus areas.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=2610031500">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg?v=2610031500">
+  <img src="assets/hero-light.svg?v=2610031500" width="100%" alt="Sham. AI/ML Architect | Applied AI | Technical Consultant. LLM and agentic systems, healthcare AI, Azure, AWS and GCP. Microsoft Certified AI-102. Open to applied AI, AI research and applied science. Artwork: a rotating point-cloud globe of an embedding space with three colour-coded clusters for the three focus areas.">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg?v=2610031341">
-  <source media="(prefers-color-scheme: light)" srcset="assets/typing-light.svg?v=2610031341">
-  <img src="assets/typing-light.svg?v=2610031341" width="760" alt="Inference ticker: AI/ML Architect, Applied AI, Consultant. LLM and agentic systems, RAG, LangGraph, vLLM. Healthcare AI, HIPAA, HL7 FHIR R4, ambient scribe. Azure, AWS, GCP, Microsoft Certified AI-102.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg?v=2610031500">
+  <source media="(prefers-color-scheme: light)" srcset="assets/typing-light.svg?v=2610031500">
+  <img src="assets/typing-light.svg?v=2610031500" width="760" alt="Inference ticker: AI/ML Architect, Applied AI, Technical Consultant. LLM and agentic systems, RAG, LangGraph, vLLM. Healthcare AI, HIPAA, HL7 FHIR R4, ambient scribe. Azure, AWS, GCP, Microsoft Certified AI-102.">
 </picture>
 
 <br>
@@ -23,12 +23,12 @@
 ## whoami
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg?v=2610031341">
-  <source media="(prefers-color-scheme: light)" srcset="assets/whoami-light.svg?v=2610031341">
-  <img src="assets/whoami-light.svg?v=2610031341" width="100%" alt="Model card for Sham in an editor window: AI/ML Architect and Consultant with 6+ years in production AI, cloud and healthcare SaaS. Core: C#, .NET, ASP.NET Core, Python, TypeScript. AI: Azure OpenAI, Azure AI Speech, LangGraph, vLLM, RAG, AI agents. Cloud: Azure, AWS, GCP. Domains: healthcare SaaS, HIPAA, HL7 FHIR R4, payments, finance. Certifications: AI-102 (Dec 2025), AI-900 (Aug 2025). Education: MCA 2024, BCA 2020. Intended use: applied AI, AI research, applied science with AI. Languages: English (C1, fluent). Status: online.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg?v=2610031500">
+  <source media="(prefers-color-scheme: light)" srcset="assets/whoami-light.svg?v=2610031500">
+  <img src="assets/whoami-light.svg?v=2610031500" width="100%" alt="Model card for Sham in an editor window: AI/ML Architect and Technical Consultant with 6+ years in production AI, cloud and healthcare SaaS. Core: C#, .NET, ASP.NET Core, Python, TypeScript. AI: Azure OpenAI, Azure AI Speech, LangGraph, vLLM, RAG, AI agents. Cloud: Azure, AWS, GCP. Domains: healthcare SaaS, HIPAA, HL7 FHIR R4, payments, finance. Certifications: AI-102 (Dec 2025), AI-900 (Aug 2025). Education: MCA 2024, BCA 2020. Intended use: applied AI, AI research, applied science with AI. Languages: English (C1, fluent). Status: online.">
 </picture>
 
-AI/ML Architect & Consultant with **6+ years** building production AI and cloud platforms, mostly in **healthcare SaaS** (HIPAA, HL7 FHIR). I design secure .NET and Python services on **Azure, AWS and GCP** and ship LLM, speech and agentic features on top — one ambient clinical scribe cut manual documentation time by **80%**.
+AI/ML Architect & Technical Consultant with **6+ years** building production AI and cloud platforms, mostly in **healthcare SaaS** (HIPAA, HL7 FHIR). I design secure .NET and Python services on **Azure, AWS and GCP** and ship LLM, speech and agentic features on top — one ambient clinical scribe cut manual documentation time by **80%**.
 
 I guide teams of 2–4 engineers and turn rough ideas into working proofs of concept fast.
 
@@ -37,7 +37,7 @@ I guide teams of 2–4 engineers and turn rough ideas into working proofs of con
 
 ```yaml
 model: shamuddin-n
-role: AI/ML Architect & Consultant
+role: AI/ML Architect & Technical Consultant
 experience: 6+ years            # production AI, cloud, healthcare SaaS
 architecture:
   core:   [C#, .NET, ASP.NET Core, Python, TypeScript]
@@ -58,9 +58,9 @@ status: online
 ## Impact & strengths
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg?v=2610031341">
-  <source media="(prefers-color-scheme: light)" srcset="assets/impact-light.svg?v=2610031341">
-  <img src="assets/impact-light.svg?v=2610031341" width="100%" alt="Strengths: multi-cloud (Azure, AWS, GCP); applied AI and LLM systems (RAG, agents, speech, vision-language); healthcare compliance (HIPAA, HL7 FHIR R4, PHI encryption); certified and experienced (6+ years, AI-102, AI-900).">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg?v=2610031500">
+  <source media="(prefers-color-scheme: light)" srcset="assets/impact-light.svg?v=2610031500">
+  <img src="assets/impact-light.svg?v=2610031500" width="100%" alt="Strengths: multi-cloud (Azure, AWS, GCP); applied AI and LLM systems (RAG, agents, speech, vision-language); healthcare compliance (HIPAA, HL7 FHIR R4, PHI encryption); certified and experienced (6+ years, AI-102, AI-900).">
 </picture>
 
 ## Capabilities
@@ -93,9 +93,9 @@ What I build, end to end. Healthcare AI is one of five capabilities.
 ### Inside the AI clinical scribe
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/arch-scribe-dark.svg?v=2610031341">
-  <source media="(prefers-color-scheme: light)" srcset="assets/arch-scribe-light.svg?v=2610031341">
-  <img src="assets/arch-scribe-light.svg?v=2610031341" width="100%" alt="Architecture of the AI clinical scribe in seven steps: 1, the Blazor WebAssembly app inside the fertility EMR calls Azure API Management over HTTPS; 2, API Management forwards to the speech token service on ASP.NET Core 8 in Azure App Service; 3, the service returns a short-lived token so no keys reach the browser; 4, the app streams audio to Azure AI Speech for live transcription; 5, the transcript goes to the note orchestrator; 6, the orchestrator and Azure OpenAI draft a structured note; 7, the draft is encrypted with X.509 certificates, reviewed by the clinician and saved to the chart. Azure Key Vault holds the secrets and certificates.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/arch-scribe-dark.svg?v=2610031500">
+  <source media="(prefers-color-scheme: light)" srcset="assets/arch-scribe-light.svg?v=2610031500">
+  <img src="assets/arch-scribe-light.svg?v=2610031500" width="100%" alt="Architecture of the AI clinical scribe in seven steps: 1, the Blazor WebAssembly app inside the fertility EMR calls Azure API Management over HTTPS; 2, API Management forwards to the speech token service on ASP.NET Core 8 in Azure App Service; 3, the service returns a short-lived token so no keys reach the browser; 4, the app streams audio to Azure AI Speech for live transcription; 5, the transcript goes to the note orchestrator; 6, the orchestrator and Azure OpenAI draft a structured note; 7, the draft is encrypted with X.509 certificates, reviewed by the clinician and saved to the chart. Azure Key Vault holds the secrets and certificates.">
 </picture>
 
 <sub>Simplified. Service keys never reach the browser; PHI is encrypted with certificates held in Azure Key Vault; a clinician reviews every note.</sub>
@@ -190,18 +190,18 @@ Two solo hackathon builds that are public. Most of my production and client work
 <td width="50%" valign="top">
 <a href="https://github.com/sham-2510/ClinSight">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cards/clinsight-dark.svg?v=2610031341">
-  <source media="(prefers-color-scheme: light)" srcset="assets/cards/clinsight-light.svg?v=2610031341">
-  <img src="assets/cards/clinsight-light.svg?v=2610031341" width="100%" alt="ClinSight, solo hackathon build: hierarchical multimodal clinical decision support. Chest X-rays, labs, vitals and triage notes reasoned through a compiled LangGraph pipeline of 5 parent agents, 7 subagents and 12 reasoning nodes; Qwen2.5-VL and Qwen3.5 MoE served with vLLM on AMD MI300X at FP16; 50 of 50 cases on a live benchmark, mean latency 23.02 seconds.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cards/clinsight-dark.svg?v=2610031500">
+  <source media="(prefers-color-scheme: light)" srcset="assets/cards/clinsight-light.svg?v=2610031500">
+  <img src="assets/cards/clinsight-light.svg?v=2610031500" width="100%" alt="ClinSight, solo hackathon build: hierarchical multimodal clinical decision support. Chest X-rays, labs, vitals and triage notes reasoned through a compiled LangGraph pipeline of 5 parent agents, 7 subagents and 12 reasoning nodes; Qwen2.5-VL and Qwen3.5 MoE served with vLLM on AMD MI300X at FP16; 50 of 50 cases on a live benchmark, mean latency 23.02 seconds.">
 </picture>
 </a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/sham-2510/playbook">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cards/playbook-dark.svg?v=2610031341">
-  <source media="(prefers-color-scheme: light)" srcset="assets/cards/playbook-light.svg?v=2610031341">
-  <img src="assets/cards/playbook-light.svg?v=2610031341" width="100%" alt="PLAYBOOK, solo hackathon build: a deterministic SOAR layer that intercepts, judges and contains rogue AI agents. Detect under 2 ms, judge under 5 ms, enforce under 1 ms with allow, deny, quarantine or escalate verdicts, forensics async; end-to-end p95 under 40 ms with zero LLM calls in the judge path; NIST SP 800-53 policy builder; EU AI Act, NIST AI RMF, SOC 2, HIPAA and GDPR mapping; tamper-evident forensics signed with SHA-256 manifests and HMAC.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cards/playbook-dark.svg?v=2610031500">
+  <source media="(prefers-color-scheme: light)" srcset="assets/cards/playbook-light.svg?v=2610031500">
+  <img src="assets/cards/playbook-light.svg?v=2610031500" width="100%" alt="PLAYBOOK, solo hackathon build: a deterministic SOAR layer that intercepts, judges and contains rogue AI agents. Detect under 2 ms, judge under 5 ms, enforce under 1 ms with allow, deny, quarantine or escalate verdicts, forensics async; end-to-end p95 under 40 ms with zero LLM calls in the judge path; NIST SP 800-53 policy builder; EU AI Act, NIST AI RMF, SOC 2, HIPAA and GDPR mapping; tamper-evident forensics signed with SHA-256 manifests and HMAC.">
 </picture>
 </a>
 </td>
@@ -211,9 +211,9 @@ Two solo hackathon builds that are public. Most of my production and client work
 ## Experience
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg?v=2610031341">
-  <source media="(prefers-color-scheme: light)" srcset="assets/timeline-light.svg?v=2610031341">
-  <img src="assets/timeline-light.svg?v=2610031341" width="100%" alt="Career timeline drawn as a training run. Epoch 1, 2020 to 2022: Full Stack Azure Developer; Oracle and SQL Server to Azure SQL migration, load time from about 2 minutes to about 2 seconds, 70% less manual deployment. Epoch 2, 2023 to present: Senior AI Engineer; AI clinical scribe with 80% less documentation time, HL7 FHIR R4 data hub, 100+ TPS payment gateway, leads teams of 2 to 4. Checkpoints: BCA 2020, MCA 2024, AI-900 August 2025, AI-102 December 2025.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg?v=2610031500">
+  <source media="(prefers-color-scheme: light)" srcset="assets/timeline-light.svg?v=2610031500">
+  <img src="assets/timeline-light.svg?v=2610031500" width="100%" alt="Career timeline drawn as a training run. Epoch 1, 2020 to 2022: Full Stack Azure Developer; Oracle and SQL Server to Azure SQL migration, load time from about 2 minutes to about 2 seconds, 70% less manual deployment. Epoch 2, 2023 to present: Senior AI Engineer; AI clinical scribe with 80% less documentation time, HL7 FHIR R4 data hub, 100+ TPS payment gateway, leads teams of 2 to 4. Checkpoints: BCA 2020, MCA 2024, AI-900 August 2025, AI-102 December 2025.">
 </picture>
 
 <details>
@@ -241,11 +241,11 @@ Two solo hackathon builds that are public. Most of my production and client work
 
 <table>
 <tr>
-<td align="center" width="140"><a href="https://learn.microsoft.com/api/credentials/share/en-us/Shamuddin-2510/38E1EAFD8E68B47F?sharingId=78AC01E7BE1C0E0"><img src="assets/badges/microsoft-certified-associate-badge.svg?v=2610031341" width="110" alt="Microsoft Certified Associate badge for Azure AI Engineer Associate (AI-102)"></a></td>
+<td align="center" width="140"><a href="https://learn.microsoft.com/api/credentials/share/en-us/Shamuddin-2510/38E1EAFD8E68B47F?sharingId=78AC01E7BE1C0E0"><img src="assets/badges/microsoft-certified-associate-badge.svg?v=2610031500" width="110" alt="Microsoft Certified Associate badge for Azure AI Engineer Associate (AI-102)"></a></td>
 <td><b>Microsoft Certified: Azure AI Engineer Associate</b> (AI-102)<br>Issued Dec 29, 2025 · <a href="https://learn.microsoft.com/api/credentials/share/en-us/Shamuddin-2510/38E1EAFD8E68B47F?sharingId=78AC01E7BE1C0E0">Verify credential</a></td>
 </tr>
 <tr>
-<td align="center" width="140"><a href="https://learn.microsoft.com/api/credentials/share/en-us/Shamuddin-2510/CC3350857AE51DD1?sharingId=78AC01E7BE1C0E0"><img src="assets/badges/microsoft-certified-fundamentals-badge.svg?v=2610031341" width="110" alt="Microsoft Certified Fundamentals badge for Azure AI Fundamentals (AI-900)"></a></td>
+<td align="center" width="140"><a href="https://learn.microsoft.com/api/credentials/share/en-us/Shamuddin-2510/CC3350857AE51DD1?sharingId=78AC01E7BE1C0E0"><img src="assets/badges/microsoft-certified-fundamentals-badge.svg?v=2610031500" width="110" alt="Microsoft Certified Fundamentals badge for Azure AI Fundamentals (AI-900)"></a></td>
 <td><b>Microsoft Certified: Azure AI Fundamentals</b> (AI-900)<br>Issued Aug 16, 2025 · <a href="https://learn.microsoft.com/api/credentials/share/en-us/Shamuddin-2510/CC3350857AE51DD1?sharingId=78AC01E7BE1C0E0">Verify credential</a></td>
 </tr>
 </table>
@@ -255,15 +255,15 @@ Two solo hackathon builds that are public. Most of my production and client work
 Public **and** private work, self-rendered daily by a GitHub Action from GitHub data. Private repositories show up as counts only, never names or code.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/telemetry-dark.svg?v=2610031341">
-  <source media="(prefers-color-scheme: light)" srcset="assets/generated/telemetry-light.svg?v=2610031341">
-  <img src="assets/generated/telemetry-light.svg?v=2610031341" width="100%" alt="GitHub telemetry for sham-2510 over the last 12 months: total, public and private contributions, current and longest streak, active days, public and private repository counts and language mix; numbers are in the image.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/telemetry-dark.svg?v=2610031500">
+  <source media="(prefers-color-scheme: light)" srcset="assets/generated/telemetry-light.svg?v=2610031500">
+  <img src="assets/generated/telemetry-light.svg?v=2610031500" width="100%" alt="GitHub telemetry for sham-2510 over the last 12 months: total, public and private contributions, current and longest streak, active days, public and private repository counts and language mix; numbers are in the image.">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/neural-activity-dark.svg?v=2610031341">
-  <source media="(prefers-color-scheme: light)" srcset="assets/generated/neural-activity-light.svg?v=2610031341">
-  <img src="assets/generated/neural-activity-light.svg?v=2610031341" width="100%" alt="Animated contribution transformer: the last 12 months of public and private GitHub contributions for sham-2510 shown as token cells, attention arcs and a neural network; numbers are in the caption.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/neural-activity-dark.svg?v=2610031500">
+  <source media="(prefers-color-scheme: light)" srcset="assets/generated/neural-activity-light.svg?v=2610031500">
+  <img src="assets/generated/neural-activity-light.svg?v=2610031500" width="100%" alt="Animated contribution transformer: the last 12 months of public and private GitHub contributions for sham-2510 shown as token cells, attention arcs and a neural network; numbers are in the caption.">
 </picture>
 
 ## Open to
@@ -273,9 +273,9 @@ Public **and** private work, self-rendered daily by a GitHub Action from GitHub 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg?v=2610031341">
-  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg?v=2610031341">
-  <img src="assets/footer-light.svg?v=2610031341" width="100%" alt="Decorative divider">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg?v=2610031500">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg?v=2610031500">
+  <img src="assets/footer-light.svg?v=2610031500" width="100%" alt="Decorative divider">
 </picture>
 
 **Building secure, useful AI. Let's talk.**
